@@ -16,7 +16,8 @@ The diagrams are kept as close as possible to the original diagrams with two mai
 The structure of this project follows the structure of the book. That is to say, each chapter of the book has its own directory. Each of these directories contains the text and UML diagrams related to that chapter.
 
 ## Contents
-- [Preface](doc/Preface/Preface.md)
-- [Introduction](doc/Introduction/Introduction.md)
+- [Preface](doc/Part-0/Preface/Preface.md)
+- [Introduction](doc/Part-0/Introduction/Introduction.md)
 
 ### Part I: Introduction
+- [Chapter 1: UML 2 – Retrospect, Introspect und Prospect](doc/Part-I/Chapter-1/Chapter-1.md)
