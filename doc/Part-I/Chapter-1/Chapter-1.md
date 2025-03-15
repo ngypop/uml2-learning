@@ -1,4 +1,4 @@
-# Chapter 1: UML 2 – Retrospect, Introspect und Prospect
+# 1. UML 2 – Retrospect, Introspect und Prospect
 UML is today the most widely used notation for the analysis and design of software systems.
 
 The introduction of UML 2 in 2005 was a dramatic evolutionary step. Since then, until today's version 2.2, there have been mainly corrections.
