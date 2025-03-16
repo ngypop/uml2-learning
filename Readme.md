@@ -22,3 +22,4 @@ The structure of this project follows the structure of the book. That is to say,
 ### Part I: Introduction
 - [Chapter 1: UML 2 – Retrospect, Introspect und Prospect](doc/Part-I/Chapter-1/Chapter-1.md)
 - [Chapter 2: Procedure Recommendations](doc/Part-I/Chapter-2/Chapter-2.md)
+- [Chapter 3: UML Certification](doc/Part-I/Chapter-3/Chapter-3.md)
